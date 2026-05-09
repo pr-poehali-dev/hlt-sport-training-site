@@ -4,32 +4,32 @@
 
 @layer base {
   :root {
-    --background: 0 0% 4%;
+    --background: 222 25% 10%;
     --foreground: 0 0% 96%;
 
-    --card: 0 0% 7%;
+    --card: 222 25% 14%;
     --card-foreground: 0 0% 96%;
 
-    --popover: 0 0% 7%;
+    --popover: 222 25% 14%;
     --popover-foreground: 0 0% 96%;
 
     --primary: 30 100% 55%;
-    --primary-foreground: 0 0% 4%;
+    --primary-foreground: 222 25% 10%;
 
-    --secondary: 0 0% 12%;
+    --secondary: 222 20% 18%;
     --secondary-foreground: 0 0% 96%;
 
-    --muted: 0 0% 12%;
-    --muted-foreground: 0 0% 55%;
+    --muted: 222 20% 18%;
+    --muted-foreground: 220 15% 55%;
 
     --accent: 30 100% 55%;
-    --accent-foreground: 0 0% 4%;
+    --accent-foreground: 222 25% 10%;
 
     --destructive: 0 84.2% 60.2%;
     --destructive-foreground: 0 0% 96%;
 
-    --border: 0 0% 14%;
-    --input: 0 0% 14%;
+    --border: 222 20% 20%;
+    --input: 222 20% 20%;
     --ring: 30 100% 55%;
 
     --radius: 0.25rem;
@@ -37,19 +37,19 @@
     /* HLT Brand Colors */
     --hlt-orange: 30 100% 55%;
     --hlt-orange-bright: 25 100% 60%;
-    --hlt-dark: 0 0% 4%;
-    --hlt-dark-card: 0 0% 7%;
-    --hlt-dark-border: 0 0% 14%;
-    --hlt-gray: 0 0% 55%;
+    --hlt-dark: 222 25% 10%;
+    --hlt-dark-card: 222 25% 14%;
+    --hlt-dark-border: 222 20% 20%;
+    --hlt-gray: 220 15% 55%;
     --hlt-white: 0 0% 96%;
 
-    --sidebar-background: 0 0% 6%;
+    --sidebar-background: 222 25% 12%;
     --sidebar-foreground: 0 0% 96%;
     --sidebar-primary: 30 100% 55%;
-    --sidebar-primary-foreground: 0 0% 4%;
-    --sidebar-accent: 0 0% 12%;
+    --sidebar-primary-foreground: 222 25% 10%;
+    --sidebar-accent: 222 20% 18%;
     --sidebar-accent-foreground: 0 0% 96%;
-    --sidebar-border: 0 0% 14%;
+    --sidebar-border: 222 20% 20%;
     --sidebar-ring: 30 100% 55%;
   }
 }
